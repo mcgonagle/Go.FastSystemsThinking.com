@@ -1,5 +1,3 @@
-# Go.FastSystemsThinking.com
-
 ## Q: Who are the fastest systems thinkers in the world?
 ##  A: The United States Air Force Combat Control Team
 
