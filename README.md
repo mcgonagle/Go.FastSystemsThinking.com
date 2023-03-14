@@ -34,7 +34,7 @@ As Pittsburgh Steeler hall of famer [Iron Mike Webster](https://www.steelers.com
 ### Who exemplifies Fast Systems Thinking, Speed, Strength, Force and Power?
 ####  A: The United States Air Force [Combat Control Team](https://www.airforce.com/careers/detail/combat-control)
 
-
+---
 ### Additional Fast Systems Thinking Thought Work
 #### Blitzscaling
 - https://infraswarm.io/benefits-of-blitzscaling
