@@ -43,5 +43,6 @@ As Pittsburgh Steeler hall of famer [Iron Mike Webster](https://www.steelers.com
 - https://infraswarm.io/moving-at-lightning-speed
 - https://infraswarm.io/blitzscale-tactics
 
-#### Kravernetes - Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
+#### Kravernetes - Full Contact Kubernetes
+Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
 - https://mcgonagle.github.io/kravernetes/
