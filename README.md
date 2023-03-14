@@ -1,5 +1,4 @@
 # CODED - Fast Systems Thinking
-### Mission and Teamwork Focused Elite Performance Methodology
 
 - **Capture the Constraints** - [Goldratt’s Theory of Constraints](https://www.leanproduction.com/theory-of-constraints/) 
 - **Observe, Orient, Decide and Act** - [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
