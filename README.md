@@ -50,17 +50,17 @@ Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuse
 
 #### KravZT - Full Contact ZeroTrust
 Krav means contact in Hebrew and Maga means combat. Full contact ZeroTrust is an approach that focuses on practical real-world skills, personal development via the application of Krav Maga self-defense principles.
-- https://kravzt.com
-
-**KravZT Tenants**
-    1. Be aggressive but smart in your problem solving.
-    2. Be vigilant in identifying and addressing challenges.
-    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
-    4. Be tool agnostic.
-    5. Invoke precision when executing tasks.
-    6. Employ simple and repeatable techniques.
-    7. Include situational awareness in all aspects of your practice.
-    8. Understand the impact of stress on your planning and response.
+#### KravZT Tenants
+   1. Be aggressive but smart in your problem solving.
+   2. Be vigilant in identifying and addressing challenges.
+   3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+   4. Be tool agnostic.
+   5. Invoke precision when executing tasks.
+   6. Employ simple and repeatable techniques.
+   7. Include situational awareness in all aspects of your practice.
+   8. Understand the impact of stress on your planning and response.
+ - https://kravzt.com
+    
 
 #### GridIronOps
 - https://infraswarm.io/gridironops
