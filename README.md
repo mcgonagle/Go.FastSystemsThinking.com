@@ -1,4 +1,4 @@
-# CODED - Fast Systems Thinking
+# CODED - A Fast Systems Thinking Methodology
 
 - **Capture the Constraints** - [Goldratt’s Theory of Constraints](https://www.leanproduction.com/theory-of-constraints/) 
 - **Observe, Orient, Decide and Act** - [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
