@@ -18,6 +18,9 @@
 > Why are martial artists not muscular? MMA fighters are skinny because their training primarily focuses on high-repetition workouts. For example, fighters do 100 pushups rather than bench press 400 lbs. High-repetition workouts do not lead to big growth in muscles, but it keeps fighters resistant to muscle fatigue.
 [HealthyJournal.com](https://www.thehealthyjournal.com/frequently-asked-questions/why-are-martial-artists-not-ripped#:~:text=Why%20are%20martial%20artists%20not%20muscular%3F,fighters%20resistant%20to%20muscle%20fatigue.)
 
+### Retzev - “Continuous Motion”
+Retzev is a concept that urges the Krav Maga practitioner to utilize and harness the natural power in movement throughout both defensive and offensive initiatives within a self-defense technique(s).
+
 ### Optimum Speed is an Advantage. Strive to Develop Agility and Quickness.
 > A powerful athlete is not a strong athlete, but one who can exert his strength quickly. Since power equals force times speed, if the athlete learns to make faster movements he increases his power, even though the contractile pulling strength of his muscles remains unchanged.Thus, a smaller man who can swing faster may hit as hard or as far as the heavier man who swings slowly.
 [Bruce Lee](https://sourcesofinsight.com/bruce-lee-quotes/#:~:text=%E2%80%9CA%20powerful%20athlete%20is%20not,of%20his%20muscles%20remains%20unchanged.)
@@ -30,3 +33,15 @@ As Pittsburgh Steeler hall of famer [Iron Mike Webster](https://www.steelers.com
 
 ### Who exemplifies Fast Systems Thinking, Speed, Strength, Force and Power?
 ####  A: The United States Air Force [Combat Control Team](https://www.airforce.com/careers/detail/combat-control)
+
+
+### Additional Fast Systems Thinking Thought Work
+#### Blitzscaling
+- https://infraswarm.io/benefits-of-blitzscaling
+- https://infraswarm.io/four-benefits-of-blitzscaling
+- https://infraswarm.io/the-five-stages-of-blitzscaling
+- https://infraswarm.io/moving-at-lightning-speed
+- https://infraswarm.io/blitzscale-tactics
+
+#### Kravernetes - Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
+- https://mcgonagle.github.io/kravernetes/
