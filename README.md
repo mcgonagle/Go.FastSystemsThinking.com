@@ -46,3 +46,23 @@ As Pittsburgh Steeler hall of famer [Iron Mike Webster](https://www.steelers.com
 #### Kravernetes - Full Contact Kubernetes
 Krav means contact in Hebrew. Full contact k8s is an approach to k8s that focuses on practical real-world skills via the application of Krav Maga self-defense principles.
 - https://mcgonagle.github.io/kravernetes/
+
+
+#### KravZT - Full Contact ZeroTrust
+Krav means contact in Hebrew and Maga means combat. Full contact ZeroTrust is an approach that focuses on practical real-world skills, personal development via the application of Krav Maga self-defense principles.
+- https://kravzt.com
+
+**KravZT Tenants**
+    1. Be aggressive but smart in your problem solving.
+    2. Be vigilant in identifying and addressing challenges.
+    3. Be proactive based on your current weaknesses or vulnerabilities; react quickly when you have to.
+    4. Be tool agnostic.
+    5. Invoke precision when executing tasks.
+    6. Employ simple and repeatable techniques.
+    7. Include situational awareness in all aspects of your practice.
+    8. Understand the impact of stress on your planning and response.
+
+#### GridIronOps
+- https://infraswarm.io/gridironops
+- http://www.slideshare.net/KatieRose9/gridironops
+- http://www.slideshare.net/KatieRose9/performance-assessment-with-impact-studying-film-like-a-pro
