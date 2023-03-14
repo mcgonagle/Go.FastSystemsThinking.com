@@ -3,8 +3,8 @@
 
 - **Capture the Constraints** - [Goldratt’s Theory of Constraints](https://www.leanproduction.com/theory-of-constraints/) 
 - **Observe, Orient, Decide and Act** - [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)
-- **Distinctions, Systems, Relationships and Perspectives** - [DSRP](https://en.wikipedia.org/wiki/DSRP)
-- **Express** - [Communication Theory](https://en.wikipedia.org/wiki/Communication_theory)
+- **Discover the Distinctions, Systems, Relationships and Perspectives** - [DSRP](https://en.wikipedia.org/wiki/DSRP)
+- **Express and Communicate** - [Communication Theory](https://en.wikipedia.org/wiki/Communication_theory)
 - **Do!!!** - [DevOps.Diet](https://devops.diet) 
     - **Define Success**: Set Overall Mission and Iterative Goals
     - **Identify Your Path**: Build, Implement, and Improve Living Processes with Purpose
