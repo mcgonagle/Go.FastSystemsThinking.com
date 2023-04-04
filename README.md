@@ -9,6 +9,8 @@
     - **Identify Your Path**: Build, Implement, and Improve Living Processes with Purpose
     - **Execute as a Team**: Trust, Communicate, and Cooperate
     - **Transform and Innovate**: Experiment, Measure, Analyze, Decide, Act
+    
+    
 ---
 ### Speed, Strength and their Realationship to Force and Power
 > Linemen need strength yes, but they also need to work on speed techniques and remember by working speed, this will help increase our rate of force and power. The same goes for the skilled positions as well; yes, they need to be fast, but by increasing their strength you will also increase their speed.Think about it this way, Powerlifters and Olympic Sprinters do not make the best football players. There needs to be a medium point when it comes to training for football.
