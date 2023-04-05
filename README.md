@@ -1,4 +1,5 @@
 # Fast Systems Thinking
+## A Crisis Management Worshop for Network and Security Incidents.
 Systems thinking and network engineering are closely related as they both involve the study of complex systems. Network engineering is a subfield of computer science that focuses on the design, implementation, and maintenance of computer networks. Systems thinking, on the other hand, is a way of thinking about and understanding complex systems, including computer networks.
 
 Systems thinking can be applied to network engineering in several ways:
